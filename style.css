@@ -1,3 +1,4 @@
+
 #title{
     background-image: url(pics/cover.avif);
     height: 100%;
@@ -50,6 +51,9 @@ h3{
 #iconp{
     padding: 0;
     margin: 0;
+}
+.search-submit.btn{
+    background-color: #578C92;
 }
 .search-bar{
     margin:2% 0 10% 0;
